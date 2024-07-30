@@ -1,0 +1,18 @@
+body{
+    background-color: #BBD5ED;
+}
+
+.headers{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: aliceblue;
+    color: #38023B;
+}
+
+a.recipe-titles{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
